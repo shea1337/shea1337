@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shea1337
-- 👀 I’m interested in ... making very old technology better
-- 🌱 I’m currently learning ... MCU programming
-- 💞️ I’m looking to collaborate on ... near zero latency serial communication with low end MCUs
+- 👀 I’m interested in retrofitting new tech in really old hardware
+- 🌱 I’m currently learning video upscaling and encoding
+- 💞️ I’m looking to collaborate on an open source Ricoh RF5C16A replacement with HDMI output
 - 📫 How to reach me ... nesynth.com
 
 <!---
